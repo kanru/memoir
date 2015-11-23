@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["Kan-Ru Chen <kanru@kanru.info>"]
 
 [dependencies]
+yaml-rust = "0.2"
 pulldown-cmark = "0.0.3"
 chrono = "0.2"
