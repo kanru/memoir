@@ -5,6 +5,7 @@ authors = ["Kan-Ru Chen <kanru@kanru.info>"]
 
 [dependencies]
 chrono = "0.2"
+docopt = "0.6"
 mustache = "0.6"
 pulldown-cmark = "0.0.3"
 walkdir = "0.1"
